@@ -1,1 +1,2 @@
-# Odoo26-
+# Dayflow - Human Resource Management System
+Every workday, perfectly aligned.
